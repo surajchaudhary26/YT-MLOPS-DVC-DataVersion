@@ -18,4 +18,6 @@
 
 # for rollback to previous dataset
 git log --oneline
-git checkout <id>
+git checkout 'id' # for rolling back to dataset
+git checkout main # again get back the data set
+git pull
