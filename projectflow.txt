@@ -19,5 +19,5 @@
 
 
 git log --oneline
-git checkout <commit-id> 
+git checkout <commit-id> / {git checkout main->this bring back to main version of data}
 dvc pull
